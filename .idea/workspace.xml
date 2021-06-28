@@ -12,11 +12,18 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b4e8a73-e36f-461d-82d0-9af082067973" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/CustomViewPager.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/CustomViewPager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +49,12 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -176,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624849182839</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Version Test New 1">
+      <created>1624849251353</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624849251353</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,7 +204,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -196,7 +228,8 @@
     <MESSAGE value="Version Tese" />
     <MESSAGE value="Version Test" />
     <MESSAGE value="Version Test New" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version Test New" />
+    <MESSAGE value="Version Test New 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version Test New 1" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -206,10 +239,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="540" y="280" key="AndroidCreateResourceDirectoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624843303795" />
-    <state x="497" y="102" key="CommitChangelistDialog2" timestamp="1624849181634">
+    <state x="497" y="102" key="CommitChangelistDialog2" timestamp="1624849250209">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="497" y="102" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1624849181634" />
+    <state x="497" y="102" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1624849250209" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1624846930433">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -226,10 +259,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1624847217023" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1624849186273">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1624849310255">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1624849186273" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1624849310255" />
     <state x="100" y="100" width="1720" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624845654413">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
