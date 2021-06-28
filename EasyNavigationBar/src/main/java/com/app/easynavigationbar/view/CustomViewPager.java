@@ -14,7 +14,7 @@ import androidx.viewpager.widget.ViewPager;
  *
  * @author ziker
  * @date 2021/6/1 10:26
- * @description
+ * @description 新的
  **/
 public class CustomViewPager extends ViewPager {
 

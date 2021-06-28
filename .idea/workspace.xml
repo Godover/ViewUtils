@@ -11,26 +11,20 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b4e8a73-e36f-461d-82d0-9af082067973" name="Default Changelist" comment="" />
+    <list default="true" id="4b4e8a73-e36f-461d-82d0-9af082067973" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/CustomViewPager.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/CustomViewPager.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[192.168.0.228:5555]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -77,7 +71,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="multi-representation-previewD:/testDemo/ziker/android/gitDemo/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/CustomViewPager.java_selected" value="Custom views" />
     <property name="multi-representation-previewD:/testDemo/ziker/android/gitDemo/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/EasyNavigationBar.java_selected" value="Custom views" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -169,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624843520760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Version Test">
+      <created>1624845814381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624845814381</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,7 +188,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Version Tese" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version Tese" />
+    <MESSAGE value="Version Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version Test" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -197,37 +199,41 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="540" y="280" key="AndroidCreateResourceDirectoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624843303795" />
-    <state x="497" y="102" key="CommitChangelistDialog2" timestamp="1624843517024">
+    <state x="497" y="102" key="CommitChangelistDialog2" timestamp="1624845811247">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="497" y="102" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1624843517024" />
-    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1624845200488">
+    <state x="497" y="102" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1624845811247" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1624846930433">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624845200488" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624846930433" />
     <state x="740" y="265" key="FileChooserDialogImpl" timestamp="1624845553189">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="265" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1624845553189" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1624845583216">
+    <state x="832" y="422" key="Github.ShareDialog" timestamp="1624847001823">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1624845583216" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1624844332391">
+    <state x="832" y="422" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624847001823" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1624847217023">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1624844332391" />
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1624847217023" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1624847420825">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1624847420825" />
     <state x="100" y="100" width="1720" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624845654413">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="100" y="100" width="1720" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624845654413" />
-    <state x="660" y="312" key="git4idea.merge.GitPullDialog" timestamp="1624845009988">
+    <state x="660" y="312" key="git4idea.merge.GitPullDialog" timestamp="1624847481266">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="660" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624845009988" />
-    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1624845089357">
+    <state x="660" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624847481266" />
+    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1624847413572">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624845089357" />
+    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624847413572" />
   </component>
 </project>
