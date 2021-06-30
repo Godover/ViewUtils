@@ -5,6 +5,9 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -22,16 +25,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b4e8a73-e36f-461d-82d0-9af082067973" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/fkz/spiderman/CrashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/fkz/spiderman/CrashActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/fkz/spiderman/CrashModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/fkz/spiderman/CrashModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/fkz/spiderman/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/fkz/spiderman/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/fkz/gitdemo/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/fkz/gitdemo/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[192.168.0.228:5555]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -95,6 +103,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="192.168.0.228:5555" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-06-30T03:20:58.623Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -125,7 +135,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="gitDemo.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -295,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625021044466</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="change package name">
+      <created>1625021096477</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1625021096477</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,7 +350,8 @@
     <MESSAGE value="change version 3" />
     <MESSAGE value="change version 4" />
     <MESSAGE value="change version 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="change version 5" />
+    <MESSAGE value="change package name" />
+    <option name="LAST_COMMIT_MESSAGE" value="change package name" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -343,10 +361,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="540" y="280" key="AndroidCreateResourceDirectoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624843303795" />
-    <state x="497" y="102" key="CommitChangelistDialog2" timestamp="1625021041425">
+    <state x="497" y="102" key="CommitChangelistDialog2" timestamp="1625021095168">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="497" y="102" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1625021041425" />
+    <state x="497" y="102" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1625021095168" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1624846930433">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -359,30 +377,46 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="832" y="422" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624847001823" />
-    <state width="1876" height="311" key="GridCell.Tab.0.bottom" timestamp="1625017835054">
+    <state width="1876" height="517" key="GridCell.Tab.0.bottom" timestamp="1625023311476">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1625017835054" />
-    <state width="1876" height="311" key="GridCell.Tab.0.center" timestamp="1625017835054">
+    <state width="1876" height="517" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1625023311476" />
+    <state width="1876" height="517" key="GridCell.Tab.0.center" timestamp="1625023311476">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="311" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1625017835054" />
-    <state width="1876" height="311" key="GridCell.Tab.0.left" timestamp="1625017835054">
+    <state width="1876" height="517" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1625023311476" />
+    <state width="1876" height="517" key="GridCell.Tab.0.left" timestamp="1625023311476">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="311" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1625017835054" />
-    <state width="1876" height="311" key="GridCell.Tab.0.right" timestamp="1625017835054">
+    <state width="1876" height="517" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1625023311476" />
+    <state width="1876" height="517" key="GridCell.Tab.0.right" timestamp="1625023311476">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="311" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1625017835054" />
+    <state width="1876" height="517" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1625023311476" />
+    <state width="1876" height="277" key="GridCell.Tab.1.bottom" timestamp="1625023296212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1625023296212" />
+    <state width="1876" height="277" key="GridCell.Tab.1.center" timestamp="1625023296212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1625023296212" />
+    <state width="1876" height="277" key="GridCell.Tab.1.left" timestamp="1625023296212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1625023296212" />
+    <state width="1876" height="277" key="GridCell.Tab.1.right" timestamp="1625023296212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1625023296212" />
     <state x="461" y="169" key="SettingsEditor" timestamp="1624860593895">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1624860593895" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1625021050311">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1625021100183">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1625021050311" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1625021100183" />
     <state x="100" y="100" width="1720" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624845654413">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

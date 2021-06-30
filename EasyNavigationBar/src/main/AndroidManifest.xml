@@ -22,7 +22,7 @@
         <activity android:name="com.fkz.spiderman.CrashActivity" />
 
         <provider
-            android:name="com.fkz.spiderman.SpiderManInitProviders"
+            android:name="com.fkz.spiderman.SpiderManInitProvider"
             android:authorities="${applicationId}.spiderman-init-provider"
             android:exported="false"
             android:multiprocess="true" />
