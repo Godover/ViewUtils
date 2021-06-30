@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:tools="http://schemas.android.com/tools"
-    package="com.app.easynavigationbar">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.ziker.easynavigationbar">
 
     <uses-sdk tools:overrideLibrary="com.lxj.xpopup" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application>
+        <provider
+            android:name="com.ziker.spiderman.SpiderManFileProvider"
+            android:authorities="${applicationId}.spidermanfileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/spiderman_file_paths" />
+        </provider>
+
+        <activity android:name="com.ziker.spiderman.CrashActivity" />
+
+        <provider
+            android:name="com.ziker.spiderman.SpiderManInitProviders"
+            android:authorities="${applicationId}.spiderman-init-provider"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
 
 </manifest>

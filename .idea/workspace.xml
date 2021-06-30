@@ -22,22 +22,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b4e8a73-e36f-461d-82d0-9af082067973" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_lxj_xpopup_2_2_23_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/ziker/spiderman/CrashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/ziker/spiderman/CrashModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/ziker/spiderman/SpiderMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/ziker/spiderman/SpiderManFileProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/ziker/spiderman/SpiderManInitProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/ziker/spiderman/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/res/layout/activity_crash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/res/menu/menu_more.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/res/values-en/values-en.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/res/xml/spiderman_file_paths.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
@@ -52,34 +52,29 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_daimajia_androidanimations_library_2_4_aar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/EasyNavigationBar/gitDemo.EasyNavigationBar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/EasyNavigationBar/gitDemo.EasyNavigationBar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyNavigationBar/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/androidTest/java/com/app/easynavigationbar/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/androidTest/java/com/ziker/easynavigationbar/ExampleInstrumentedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/CustomViewPager.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/CustomViewPager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/EasyNavigationBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/EasyNavigationBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/adapter/ViewPager2Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/ziker/easynavigationbar/adapter/ViewPager2Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/adapter/ViewPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/ziker/easynavigationbar/adapter/ViewPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/utils/NavigationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/ziker/easynavigationbar/utils/NavigationUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/CustomViewPager.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/ziker/easynavigationbar/view/CustomViewPager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/EasyNavigationBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/java/com/ziker/easynavigationbar/view/EasyNavigationBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/main/res/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/main/res/values/values.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyNavigationBar/src/test/java/com/app/easynavigationbar/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNavigationBar/src/test/java/com/ziker/easynavigationbar/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/app/gitdemo/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/ziker/gitdemo/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/app/gitdemo/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ziker/gitdemo/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/app/gitdemo/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/ziker/gitdemo/ExampleUnitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,11 +138,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1uYWpoBbOs9qQxmboGoFqay2bPB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -155,15 +150,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android-custom-viewD:/testDemo/ziker/android/gitDemo/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/CustomViewPager.java_SELECTED" value="CustomViewPager" />
     <property name="android-custom-viewD:/testDemo/ziker/android/gitDemo/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/EasyNavigationBar.java_SELECTED" value="EasyNavigationBar" />
+    <property name="android-custom-viewD:/testDemo/ziker/android/gitDemo/EasyNavigationBar/src/main/java/com/ziker/easynavigationbar/view/CustomViewPager.java_SELECTED" value="CustomViewPager" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/EasyNavigationBar/src/main/res" />
     <property name="multi-representation-previewD:/testDemo/ziker/android/gitDemo/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/CustomViewPager.java_selected" value="Custom views" />
     <property name="multi-representation-previewD:/testDemo/ziker/android/gitDemo/EasyNavigationBar/src/main/java/com/app/easynavigationbar/view/EasyNavigationBar.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/testDemo/ziker/android/gitDemo/EasyNavigationBar/src/main/java/com/ziker/easynavigationbar/view/CustomViewPager.java_selected" value="Custom views" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\testDemo\ziker\android\gitDemo\EasyNavigationBar\src\main\res" />
+      <recent name="D:\testDemo\ziker\android\gitDemo\EasyNavigationBar\src\main\res\menu" />
+      <recent name="D:\testDemo\ziker\android\gitDemo\EasyNavigationBar\src\main\res\layout" />
+      <recent name="D:\testDemo\ziker\android\gitDemo\EasyNavigationBar\src\main\java\com\ziker\spiderman" />
       <recent name="D:\testDemo\ziker\android\gitDemo\EasyNavigationBar\src\main\java\com\app\easynavigationbar" />
     </key>
   </component>
@@ -324,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624861827972</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="change version 3">
+      <created>1625017344905</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1625017344905</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,7 +366,8 @@
     <MESSAGE value="Version Test New 1" />
     <MESSAGE value="change version" />
     <MESSAGE value="change version two" />
-    <option name="LAST_COMMIT_MESSAGE" value="change version two" />
+    <MESSAGE value="change version 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="change version 3" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -369,10 +377,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="540" y="280" key="AndroidCreateResourceDirectoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624843303795" />
-    <state x="497" y="102" key="CommitChangelistDialog2" timestamp="1624861826545">
+    <state x="497" y="102" key="CommitChangelistDialog2" timestamp="1625017340862">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="497" y="102" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1624861826545" />
+    <state x="497" y="102" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1625017340862" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1624846930433">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -385,30 +393,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="832" y="422" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624847001823" />
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1625017070520">
+    <state width="1876" height="311" key="GridCell.Tab.0.bottom" timestamp="1625017835054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1625017070520" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1625017070519">
+    <state width="1876" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1625017835054" />
+    <state width="1876" height="311" key="GridCell.Tab.0.center" timestamp="1625017835054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1625017070519" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1625017070519">
+    <state width="1876" height="311" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1625017835054" />
+    <state width="1876" height="311" key="GridCell.Tab.0.left" timestamp="1625017835054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1625017070519" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1625017070519">
+    <state width="1876" height="311" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1625017835054" />
+    <state width="1876" height="311" key="GridCell.Tab.0.right" timestamp="1625017835054">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1625017070519" />
+    <state width="1876" height="311" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1625017835054" />
     <state x="461" y="169" key="SettingsEditor" timestamp="1624860593895">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1624860593895" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1624861834465">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1625017351573">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1624861834465" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1625017351573" />
     <state x="100" y="100" width="1720" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624845654413">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

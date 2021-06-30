@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.blankj:utilcodex:1.30.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/941ae4d4bd3565cbbdb19e0cbc2587fc/jetified-utilcodex-1.30.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/941ae4d4bd3565cbbdb19e0cbc2587fc/jetified-utilcodex-1.30.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/941ae4d4bd3565cbbdb19e0cbc2587fc/jetified-utilcodex-1.30.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/941ae4d4bd3565cbbdb19e0cbc2587fc/jetified-utilcodex-1.30.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.blankj/utilcodex/1.30.1/9c7b06c6f84323d4e71055a84f7aecaf9a6b214f/utilcodex-1.30.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.blankj/utilcodex/1.30.1/14c8c90aac5cb6cc0d7a7f7ba599bd3c1222cbe4/utilcodex-1.30.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
