@@ -7,7 +7,6 @@ import android.content.pm.PackageManager;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;
-import java.util.Date;
 
 class Utils {
 
@@ -15,7 +14,7 @@ class Utils {
         CrashModel model = new CrashModel();
         try {
             model.setEx(ex);
-            model.setTime(new Date().getTime());
+            model.setTime(System.currentTimeMillis());
             if (ex.getCause() != null) {
                 ex = ex.getCause();
             }

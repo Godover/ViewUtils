@@ -30,11 +30,6 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.text.SimpleDateFormat;
 
-/**
- * author : ChenPeng
- * date : 2018/4/20
- * description :
- */
 public class CrashActivity extends AppCompatActivity {
 
     public static final String CRASH_MODEL = "crash_model";

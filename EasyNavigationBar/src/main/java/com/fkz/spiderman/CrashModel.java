@@ -5,11 +5,6 @@ import android.os.Parcel;
 import android.os.Parcelable;
 import android.text.TextUtils;
 
-/**
- * author : ChenPeng
- * date : 2018/4/21
- * description :
- */
 public class CrashModel implements Parcelable {
 
     public static final Creator<CrashModel> CREATOR = new Creator<CrashModel>() {
