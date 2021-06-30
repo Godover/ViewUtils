@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.app.easynavigationbar">
+<manifest xmlns:tools="http://schemas.android.com/tools"
+    package="com.app.easynavigationbar">
+
+    <uses-sdk tools:overrideLibrary="com.lxj.xpopup" />
 
 </manifest>

@@ -7,26 +7,12 @@ import android.view.MotionEvent;
 
 import androidx.viewpager.widget.ViewPager;
 
-import com.daimajia.androidanimations.library.flippers.FlipInXAnimator;
-
-/**
- * ***********************************************
- * **            佛祖保佑  镇类之宝              **
- * ***********************************************
- *
- * @author ziker
- * @date 2021/6/1 10:26
- * @description 新的
- **/
 public class CustomViewPager extends ViewPager {
 
     private boolean isCanScroll = true;
-    private boolean test = false;
 
     public CustomViewPager(Context context) {
         super(context);
-        FlipInXAnimator flip = new FlipInXAnimator();
-        flip.prepare(this);
     }
 
     public CustomViewPager(Context context, AttributeSet attrs) {

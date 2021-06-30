@@ -33,15 +33,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * ***********************************************
- * **            佛祖保佑  镇类之宝              **
- * ***********************************************
- *
- * @author ziker
- * @date 2021/5/28 13:51
- * @description
- **/
 public class EasyNavigationBar extends LinearLayout {
     public static final int RULE_CENTER = 0;
     public static final int RULE_BOTTOM = 1;
